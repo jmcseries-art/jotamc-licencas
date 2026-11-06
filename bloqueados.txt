@@ -1,0 +1,4 @@
+# Lista de PCs BLOQUEADOS do painel Montagem de Jogos JotaMC
+# Um codigo de PC por linha (ex: ABCD-EFGH-JKLM-NPQR  # nome - motivo)
+# Linhas que comecam com # sao comentarios.
+# Para desbloquear, apague a linha.
